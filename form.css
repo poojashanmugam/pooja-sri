@@ -1,0 +1,17 @@
+body{
+    padding:150px;
+    background-color: #ffdab9;
+}
+fieldset{
+    background-color: white;
+
+}
+
+button{
+    background-color: red;
+        color: white;
+        border: none;
+        padding: 2px;
+        
+    
+}
